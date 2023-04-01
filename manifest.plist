@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>bundleID/string>
+                <string>com.ihuman.words</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>AppNamer</string>
+                <string>洪恩识字</string>
             </dict>
         </dict>
     </array>
